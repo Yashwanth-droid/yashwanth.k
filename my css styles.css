@@ -1,0 +1,110 @@
+body{
+    margin: 0%;
+    text-align: center;
+}
+.cloud-1{
+    position: absolute;
+    left: 25rem;
+    bottom: 25rem;
+}
+.cloud-2{
+    position: absolute;
+    top: 20px;
+    right: 20rem;
+}
+.title{
+    
+    font-family: 'Parisienne', cursive;
+}
+.top-cont{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+h1{
+    color: #66BFBF;
+    padding-top: 40px;
+}
+h2{
+    color: #66BFBF;
+    font-weight: 40;
+}
+.my-pic{
+    width: 200px;
+    height: 200px;
+    padding-top: 30px;
+}
+.mount{
+    padding-bottom: 30px;
+}
+hr{
+    border: dotted;
+    border-bottom: none;
+    width: 20px;
+}
+.top-count{
+    background-color: #eaf6f6;
+}
+h3{
+    color: #66BFBF;
+}
+.hello{
+    width: 20%;
+    margin: 50px auto;
+   
+}
+.design{
+    height: 200px;
+    width: 200px;
+    width: 25%;
+    float: left;
+    margin-right: 5rem;
+}
+.float-1{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    margin-bottom: 20px;
+}
+.design-2{
+    height: 200px;
+    width: 200px;
+    float: right;
+    margin-left: 5rem;
+    
+}
+.float-2{
+    margin: 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+   padding-top: 10px;  
+}
+.end-cont{
+    width: 20%;
+    margin: 10px auto;
+}
+.twitter{
+    height: 25px;
+    width: 25px;
+    padding-bottom: 4px;
+}
+.youtube{
+      height: 30px;
+      width: 25px;
+}
+.facebook{
+    width: 25px;
+    height: 30px;
+
+}
+a{
+    margin: 50px 20px;
+}
+.links{
+    margin: 50px auto;
+    background-color: #66BFBF;
+    position: relative;
+    padding-top: 100px;
+}
