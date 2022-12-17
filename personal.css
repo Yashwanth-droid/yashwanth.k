@@ -1,0 +1,155 @@
+.rent{
+    width: 60em;
+    height: 20em;
+   border-radius: 6em;
+    margin-left: 35px;
+    padding-top: 30px;
+    position: absolute;
+    opacity: 60%;
+
+}
+.intro{
+    position: absolute;
+    right: 32em;
+    bottom: 16em;
+    font-size: 35px;
+}
+.rent:hover{
+    opacity:40%;
+}
+.welnote{
+    position: absolute;
+    right: 55.5em;
+    bottom: 27.9em;
+   
+}
+span{
+    size: 30em;
+}
+.burger{
+    width: 3rem;
+    height: 3rem;
+    padding-top: 1rem;
+    padding-left: 1.5rem;
+}
+.bur1{
+    width: 6em;
+    height: 12em;
+    background-color: rgb(231, 214, 193);
+    border-radius: 0.8em;
+    position: absolute;
+    left: 4em;
+    bottom: 8em;
+
+   
+}
+.burhr{
+    width: 2em;
+    color: rgb(68, 67, 67);
+    border-bottom: none;
+    margin-top: 2em;
+}
+.pbur{
+    margin-left: 1.6em;
+}
+/*div ban*/
+.ban{
+    width: 3rem;
+    height: 3rem;
+    padding-top: 1rem;
+    padding-left: 1.5rem;
+}
+
+.bread{
+    width: 6em;
+    height: 12em;
+    background-color: rgb(231, 214, 193);
+    border-radius: 0.8em;
+    position: absolute;
+    left: 11.7em;
+    bottom: 8em;
+}
+.brehr{
+    width: 2em;
+    color: rgb(68, 67, 67);
+    border-bottom: none;
+    margin-top: 2em;
+}
+.pban{
+    margin-left: 1.1em;
+}
+/* div icecream */
+.pice{
+    margin-left: 1em;
+}
+.hice{
+    width: 2em;
+    color: rgb(68, 67, 67);
+    border-bottom: none;
+    margin-top: 2em;
+}
+.cream{
+    width: 3em;
+    height: 3em;
+    padding-left: 1.5rem ;
+    padding-top: 1rem;
+}
+.ice{
+    width: 6em;
+    height: 12em;
+    background-color: rgb(231, 214, 193);
+    border-radius: 0.8em;
+   position: absolute;
+   right: 70.5em;
+   bottom: 7.9em;
+}
+/*div hotdog*/
+.hot{
+    width: 6em;
+    height: 12em;
+    background-color: rgb(231, 214, 193);
+    border-radius: 0.8em;
+    position: absolute;
+    right: 62.8em;
+    bottom: 7.9em;
+
+}
+.hotdog{
+    width: 3em;
+    height: 3em;
+    padding-left: 1.5rem ;
+    padding-top: 1rem;
+}
+.pdog{
+  margin-left: 1.6em;
+}
+.hrdog{
+    width: 2em;
+    color: rgb(68, 67, 67);
+    border-bottom: none;
+    margin-top: 2em; 
+}
+.nood{
+    width: 6em;
+    height: 12em;
+    background-color: rgb(231, 214, 193);
+    border-radius: 0.8em;
+    position: absolute;
+    right: 54.9em;
+    bottom: 7.9em;
+}
+.noodles{
+    width: 3em;
+    height: 3em;
+    padding-left: 1.5rem ;
+    padding-top: 1rem;
+}
+.pnood{
+    margin-left: 1.6em;
+}
+.hrnood{
+    width: 2em;
+    color: rgb(68, 67, 67);
+    border-bottom: none;
+    margin-top: 2em;  
+}
